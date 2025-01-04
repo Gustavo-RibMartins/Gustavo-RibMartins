@@ -1,5 +1,5 @@
 ### Hi there! I'm Gustavo Martins! 👋
-#### I'm a business intelligence analyst with focus on data preparation, data visualization, data modeling and cloud computing.
+#### I'm a analytics engineer with focus on data preparation, data visualization, data modeling and cloud computing.
 ---
 
 
